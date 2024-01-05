@@ -19,7 +19,7 @@ public class HomeController {
 	@Autowired
 	HomeModel userInfo;
 	
-	@RequestMapping("/")
+	@RequestMapping("/home")
 	public String homeController(Model model)
 	{
 		model.addAttribute("userInfo", userInfo);

@@ -22,6 +22,6 @@ public class MyWebConfig implements WebApplicationInitializer{
 		
 		ServletRegistration.Dynamic myCustomDispatcherServlet = servletContext.addServlet("MyDispatcher", dispatcher);
 		myCustomDispatcherServlet.setLoadOnStartup(1);
-		myCustomDispatcherServlet.addMapping("/");
+		myCustomDispatcherServlet.addMapping("/LuvCalculator/*");
 	}
 }

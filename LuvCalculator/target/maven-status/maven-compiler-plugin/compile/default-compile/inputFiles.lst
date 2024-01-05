@@ -1,6 +1,6 @@
-S:\StsWorkspace\SpringMvc\LuvCalculator\src\main\java\com\springmvc\luv\model\HomeModel.java
-S:\StsWorkspace\SpringMvc\LuvCalculator\src\main\java\com\springmvc\luv\config\MyWebConfig.java
-S:\StsWorkspace\SpringMvc\LuvCalculator\src\main\java\com\springmvc\luv\controllers\HomeController.java
-S:\StsWorkspace\SpringMvc\LuvCalculator\src\main\java\com\springmvc\luv\controllers\RegistrationController.java
-S:\StsWorkspace\SpringMvc\LuvCalculator\src\main\java\com\springmvc\luv\config\MyBeansConfig.java
-S:\StsWorkspace\SpringMvc\LuvCalculator\src\main\java\com\springmvc\luv\model\RegistrationModel.java
+S:\StsWorkspace\SpringBoot\LuvCalculator\src\main\java\com\springmvc\luv\controllers\HomeController.java
+S:\StsWorkspace\SpringBoot\LuvCalculator\src\main\java\com\springmvc\luv\config\MyWebConfig.java
+S:\StsWorkspace\SpringBoot\LuvCalculator\src\main\java\com\springmvc\luv\model\HomeModel.java
+S:\StsWorkspace\SpringBoot\LuvCalculator\src\main\java\com\springmvc\luv\model\RegistrationModel.java
+S:\StsWorkspace\SpringBoot\LuvCalculator\src\main\java\com\springmvc\luv\config\MyBeansConfig.java
+S:\StsWorkspace\SpringBoot\LuvCalculator\src\main\java\com\springmvc\luv\controllers\RegistrationController.java
